@@ -1,7 +1,0 @@
-#include "itemtype.h"
-
-File::File()
-{
-  fileNode = NULL;
-}
-
